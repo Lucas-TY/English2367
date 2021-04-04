@@ -2,58 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://covid-19.lucas-ty.space/posts/5cf5b17a/</loc>
+    <loc>http://covid-19.lucas-ty.space/gallery/</loc>
     
-    <lastmod>2021-03-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://covid-19.lucas-ty.space/posts/68ae36ec/</loc>
-    
-    <lastmod>2021-03-28</lastmod>
+    <lastmod>2021-04-04</lastmod>
     
   </url>
   
   <url>
-    <loc>http://covid-19.lucas-ty.space/posts/b6ef4fe0/</loc>
+    <loc>http://covid-19.lucas-ty.space/posts/f2fea267/</loc>
     
-    <lastmod>2021-03-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://covid-19.lucas-ty.space/posts/cb24ed77/</loc>
-    
-    <lastmod>2021-03-28</lastmod>
+    <lastmod>2021-04-04</lastmod>
     
   </url>
   
   <url>
-    <loc>http://covid-19.lucas-ty.space/posts/50bac2e6/</loc>
+    <loc>http://covid-19.lucas-ty.space/posts/2f6ceddd/</loc>
     
-    <lastmod>2021-03-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://covid-19.lucas-ty.space/posts/4d0299b9/</loc>
-    
-    <lastmod>2021-03-28</lastmod>
+    <lastmod>2021-04-04</lastmod>
     
   </url>
   
   <url>
-    <loc>http://covid-19.lucas-ty.space/posts/3b49ac76/</loc>
+    <loc>http://covid-19.lucas-ty.space/posts/146e17c1/</loc>
     
-    <lastmod>2021-03-28</lastmod>
+    <lastmod>2021-04-04</lastmod>
     
   </url>
   
   <url>
-    <loc>http://covid-19.lucas-ty.space/posts/95736992/</loc>
+    <loc>http://covid-19.lucas-ty.space/posts/2e11aea3/</loc>
     
-    <lastmod>2021-03-28</lastmod>
+    <lastmod>2021-04-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://covid-19.lucas-ty.space/posts/f7175c71/</loc>
+    
+    <lastmod>2021-04-04</lastmod>
     
   </url>
   
@@ -75,13 +61,6 @@
     <loc>http://covid-19.lucas-ty.space/img/siteicon/README</loc>
     
     <lastmod>2021-02-15</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://covid-19.lucas-ty.space/gallery/</loc>
-    
-    <lastmod>2021-02-12</lastmod>
     
   </url>
   
@@ -144,21 +123,14 @@
 
   
   <url>
-    <loc>http://covid-19.lucas-ty.space/tags/%E7%AC%94%E8%AE%B0/</loc>
+    <loc>http://covid-19.lucas-ty.space/tags/trip/</loc>
     <lastmod>2021-04-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://covid-19.lucas-ty.space/tags/Git/</loc>
-    <lastmod>2021-04-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://covid-19.lucas-ty.space/tags/Diary/</loc>
+    <loc>http://covid-19.lucas-ty.space/tags/host-family/</loc>
     <lastmod>2021-04-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -167,42 +139,7 @@
 
   
   <url>
-    <loc>http://covid-19.lucas-ty.space/categories/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2021-04-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://covid-19.lucas-ty.space/categories/Git/</loc>
-    <lastmod>2021-04-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://covid-19.lucas-ty.space/categories/%E6%97%A5%E8%AE%B0/</loc>
-    <lastmod>2021-04-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://covid-19.lucas-ty.space/categories/RSS/</loc>
-    <lastmod>2021-04-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://covid-19.lucas-ty.space/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2021-04-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://covid-19.lucas-ty.space/categories/Hexo/</loc>
+    <loc>http://covid-19.lucas-ty.space/categories/covid-19/</loc>
     <lastmod>2021-04-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
