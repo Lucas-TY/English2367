@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://english2367.lucas-ty.space/gallery/</loc>
+    
+    <lastmod>2021-04-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://english2367.lucas-ty.space/posts/2f6ceddd/</loc>
     
     <lastmod>2021-04-04</lastmod>
@@ -31,13 +38,6 @@
   
   <url>
     <loc>http://english2367.lucas-ty.space/posts/2e11aea3/</loc>
-    
-    <lastmod>2021-04-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://english2367.lucas-ty.space/gallery/</loc>
     
     <lastmod>2021-04-04</lastmod>
     
@@ -116,7 +116,7 @@
 
   <url>
     <loc>http://english2367.lucas-ty.space/</loc>
-    <lastmod>2021-04-04</lastmod>
+    <lastmod>2021-04-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -124,14 +124,14 @@
   
   <url>
     <loc>http://english2367.lucas-ty.space/tags/host-family/</loc>
-    <lastmod>2021-04-04</lastmod>
+    <lastmod>2021-04-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://english2367.lucas-ty.space/tags/trip/</loc>
-    <lastmod>2021-04-04</lastmod>
+    <lastmod>2021-04-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -140,7 +140,7 @@
   
   <url>
     <loc>http://english2367.lucas-ty.space/categories/covid-19/</loc>
-    <lastmod>2021-04-04</lastmod>
+    <lastmod>2021-04-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
